@@ -6,4 +6,4 @@
 <br>
 <br>
 <br>
-<h6>This Is A Source Code Of Simple Music Player Made By Loki. You Can Use This As A Base For Your Web. Just Enjoy Good Luck F </h6>
+<h6>This is a memory card game made by Loki Ser. You can play this game by tapping the play button and enjoy it. If you encounter any problems, please feel free to contact me.</h6>
